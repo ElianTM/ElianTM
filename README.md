@@ -13,9 +13,9 @@ I’m deeply focused on **architecture, performance and clean code**.
 ## 🛠️ Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
-![Oracle NoSQL Database](https://github.com/oracle/nosql-examples/raw/master/demo-livelab/NoSQL-Database.png)   
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ## 📊 GitHub Stats
 
@@ -23,3 +23,5 @@ I’m deeply focused on **architecture, performance and clean code**.
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ElianTM&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianTM&layout=compact&theme=tokyonight" />
 </p>
+
+
