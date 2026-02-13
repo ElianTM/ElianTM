@@ -6,7 +6,7 @@ I’m deeply focused on **architecture, performance and clean code**.
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/ElianTM">
     <img src="https://img.shields.io/badge/GitHub-ElianTM-181717?style=for-the-badge&logo=github" />
   </a>
 
@@ -20,8 +20,7 @@ I’m deeply focused on **architecture, performance and clean code**.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ElianTM&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianTM&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ElianTM&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianTM&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
-
 
